@@ -22,7 +22,7 @@ function Projects() {
       description: "A React Native app for recording and managing voice notes.",
       stack: "React Native",
       link: "https://github.com/J3ZZ3/AudioRecorderApp",
-      demo: "https://your-demo-link.com/audio-recorder",
+      apk: "https://drive.google.com/file/d/1UG-QOMhotIiU7aVgmwqrTLXDnqykByFx/view?usp=drive_link",
     },
     {
       name: "Weather App",
