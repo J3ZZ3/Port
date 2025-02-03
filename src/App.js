@@ -21,6 +21,10 @@ function App() {
               <Home />
             </section>
     <ColorLine/>
+    <section id="resume">
+    <Resume/>
+    </section>
+    <ColorLine/>
             <section id="skills">
               <SkillsMatrix />
             </section>

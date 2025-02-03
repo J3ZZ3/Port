@@ -55,16 +55,19 @@
   gap: 0.75rem;
   padding: 1rem 2rem;
   background: linear-gradient(45deg, #0078ff, #01a9f7);
+  background-size: 200% auto;
   color: white;
   text-decoration: none;
   border-radius: 25px;
-  transition: all 0.3s ease;
+  transition: all 0.5s ease;
   font-size: 1.1rem;
 }
 
 .download-btn:hover {
+  background-position: right center;
   transform: translateY(-3px);
   box-shadow: 0 5px 15px rgba(0, 120, 255, 0.3);
+  background: linear-gradient(45deg, #01a9f7, #0078ff);
 }
 
 .download-icon {
